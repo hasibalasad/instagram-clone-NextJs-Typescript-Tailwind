@@ -12,7 +12,7 @@ function MiniProfile() {
                 <h3 className=" text-sm text-gray-400">Welcome to Instagram</h3>
             </div>
             <button className=" text-sm text-blue-400 font-semibold">
-                Sign Out
+                Signed Out
             </button>
         </div>
     );
