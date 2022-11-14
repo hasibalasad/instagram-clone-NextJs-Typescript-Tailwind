@@ -37,10 +37,10 @@ function Suggestions() {
                     <img
                         src={profile.avatar}
                         alt=""
-                        className=" rounded-full h-10 w-10 border p-[2px]"
+                        className=" rounded-full h-10 w-10 border p-[2px] cursor-pointer"
                     />
                     <div className=" flex-1 ml-4">
-                        <h2 className=" font-semibold text-sm">
+                        <h2 className=" font-semibold text-sm cursor-pointer">
                             {profile.username}
                         </h2>
                         <h3 className=" text-xs text-gray-400">
