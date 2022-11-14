@@ -7,12 +7,12 @@ function MiniProfile() {
                 alt=""
                 className=" rounded-full h-16 w-16"
             />
-            <div>
+            <div className=" flex-1 mx-4">
                 <h2 className=" font-bold">hasibalasad</h2>
                 <h3 className=" text-sm text-gray-400">Welcome to Instagram</h3>
             </div>
             <button className=" text-sm text-blue-400 font-semibold">
-                Signed Out
+                Sign Out
             </button>
         </div>
     );
