@@ -1,4 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
+
 function Story({ img, username }) {
     return (
         <div>
